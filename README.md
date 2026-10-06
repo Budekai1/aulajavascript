@@ -1,2 +1,0 @@
-# aulajavascript
-Introdução ao javascript
